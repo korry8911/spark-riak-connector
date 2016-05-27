@@ -47,6 +47,7 @@ In order to use the Spark-Riak connector, you must have the following installed:
 
 - [Using the Spark-Riak Connector](./docs/using-connector.md#using-the-spark-riak-connector)
   - [Configuration of Spark Context](./docs/using-connector.md#configuration-of-spark-context)
+  - [Failover Handling](./docs/using-connector.md#failover-handling)
   - [Reading Data From KV Bucket](./docs/using-connector.md#reading-data-from-kv-bucket)
   - [Writing Data To KV Bucket](./docs/using-connector.md#writing-data-to-kv-bucket)
   - [Writing Data To KV Bucket With 2i Indices](./docs/using-connector.md#writing-data-to-kv-bucket-with-2i-indices)
